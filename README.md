@@ -1,8 +1,8 @@
 
 
-# 基于Springboot的学生社团管理系统 
+# 基于Springboot的渗透测试演示平台管理系统
 
-# Springboot-032
+# Springboot-033
 
 ### 技术栈
 
@@ -22,11 +22,11 @@ mysql (14张表)
 
 ![1688642512574](./images/6.jpg)![1688642534905](./images/7.jpg)![1688642549057](./images/8.jpg)
 
+### 后台
+
 ![1688642565881](./images/9.jpg)
 
 ![1688642565881](./images/10.jpg)
-
-### 后台
 
 ![1688642565881](./images/11.jpg)
 
@@ -42,7 +42,7 @@ mysql (14张表)
 
 ![1688642565881](./images/19.jpg)
 
-![1688642565881](./images/20.jpg)![1688642565881](./images/21.jpg)
+![1688642565881](./images/20.jpg)
 
 
 
@@ -51,16 +51,16 @@ mysql (14张表)
 ### 前台
 
 ```
-http://localhost:8080/springbootnp4n3/front/index.html
+http://localhost:8080/springboota53y0/front/index.html
 
-账号 学生1
-密码 123456
+账号 1
+密码 1
 ```
 
 ### 后台
 
 ```
-http://localhost:8080/springbootnp4n3/admin/dist/index.html#/login
+http://localhost:8080/springboota53y0/admin/dist/index.html#/login
 
 账号 abo
 密码 abo

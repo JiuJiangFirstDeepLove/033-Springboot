@@ -12,11 +12,11 @@ import com.entity.view.NewsView;
 
 
 /**
- * 社团新闻
+ * 公告信息
  *
  * @author 
  * @email 
- * @date 2021-05-08 09:49:51
+ * @date 2021-02-26 22:02:58
  */
 public interface NewsService extends IService<NewsEntity> {
 

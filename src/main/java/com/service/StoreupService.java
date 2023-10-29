@@ -16,7 +16,7 @@ import com.entity.view.StoreupView;
  *
  * @author 
  * @email 
- * @date 2021-05-08 09:49:51
+ * @date 2021-02-26 22:02:58
  */
 public interface StoreupService extends IService<StoreupEntity> {
 
